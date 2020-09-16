@@ -1,0 +1,52 @@
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Presentacion.exe.config
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Presentacion.exe
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Presentacion.pdb
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Entidades.dll
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\LogicaDeNegocio.dll
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Datos.dll
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Entidades.pdb
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\LogicaDeNegocio.pdb
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Datos.pdb
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.Tarjeta.resources
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.exe
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.Tarjeta.resources
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.exe
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Presentacion.exe.config
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Presentacion.exe
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Presentacion.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Entidades.dll
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\bin\Debug\LogicaDeNegocio.dll
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Datos.dll
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Entidades.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\bin\Debug\LogicaDeNegocio.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Datos.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.Persona.resources
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Entidades.dll
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\LogicaDeNegocio.dll
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Datos.dll
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\bin\Debug\Datos.pdb
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.Persona.resources
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.Tarjeta.resources
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Presentacion\obj\Debug\Presentacion.pdb

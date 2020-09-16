@@ -1,0 +1,26 @@
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Datos\bin\Debug\Datos.dll
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Datos\bin\Debug\Datos.pdb
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Datos\bin\Debug\Entidades.dll
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Datos\bin\Debug\Entidades.pdb
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.dll
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Datos\bin\Debug\Datos.dll
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Datos\bin\Debug\Datos.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Datos\bin\Debug\Entidades.dll
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Datos\bin\Debug\Entidades.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.dll
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.dll
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.pdb
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Datos\bin\Debug\Datos.dll
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Datos\bin\Debug\Datos.pdb
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Datos\bin\Debug\Entidades.dll
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Datos\bin\Debug\Entidades.pdb
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\Datos\obj\Debug\Datos.csproj.CopyComplete

@@ -1,0 +1,32 @@
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.dll
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\Datos.dll
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\Entidades.dll
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\Datos.pdb
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\Entidades.pdb
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csprojAssemblyReference.cache
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CopyComplete
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.dll
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.dll
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\Datos.dll
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\Entidades.dll
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\Datos.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\Entidades.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csprojAssemblyReference.cache
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CopyComplete
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.dll
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.dll
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\Datos.dll
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\Entidades.dll
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\Datos.pdb
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\LogicaDeNegocio\bin\Debug\Entidades.pdb
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csprojAssemblyReference.cache
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CopyComplete
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.dll
+C:\Users\MATEO\Desktop\Final Programacion 2\TrabajandoEnCapas.ok\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb

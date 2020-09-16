@@ -1,0 +1,11 @@
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Entidades\bin\Debug\Entidades.dll
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Entidades\bin\Debug\Entidades.pdb
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Entidades\obj\Debug\Entidades.dll
+D:\2020\Porgramacion_2\TrabajandoEnCapas.ok\Entidades\obj\Debug\Entidades.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Entidades\bin\Debug\Entidades.dll
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Entidades\bin\Debug\Entidades.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Entidades\obj\Debug\Entidades.dll
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Entidades\obj\Debug\Entidades.pdb
+D:\2020\Porgramacion_2\Pruebas\TrabajandoEnCapas.ok\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
